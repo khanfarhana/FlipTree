@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9A5C9738-E838-4E19-91E3-2A9108296718"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "6021EDED-C841-467B-8408-2D587BB4E3A0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9AD0808A-23F2-41FC-819B-582739FBD4E6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlipTree/ViewModels/AppListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "fetchFromNetwork(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9AD0808A-23F2-41FC-819B-582739FBD4E6 - 31d867a6c9b499de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlipTree.AppListViewModel.fetchFromNetwork(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "FlipTree"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/farhanakhan/Downloads/FlipTree/FlipTree/ViewModels/AppListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "404">
+               </Location>
+               <Location
+                  uuid = "9AD0808A-23F2-41FC-819B-582739FBD4E6 - 5d3a4f7c21b5bc66"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in FlipTree.AppListViewModel.fetchFromNetwork(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "FlipTree"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/farhanakhan/Downloads/FlipTree/FlipTree/ViewModels/AppListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "192">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CA8C99B9-1B51-486F-91BC-46C6D1CFC074"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlipTree/ViewModels/AppListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "160"
+            endingLineNumber = "160"
+            landmarkName = "loadMoreData(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CA8C99B9-1B51-486F-91BC-46C6D1CFC074 - 5555d84639d2aef9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;FlipTree.Result&gt;) -&gt; () in FlipTree.AppListViewModel.loadMoreData(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "FlipTree"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/farhanakhan/Downloads/FlipTree/FlipTree/ViewModels/AppListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "160"
+                  endingLineNumber = "160"
+                  offsetFromSymbolStart = "1520">
+               </Location>
+               <Location
+                  uuid = "CA8C99B9-1B51-486F-91BC-46C6D1CFC074 - 53f42ed07621b7a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 () -&gt; () in closure #1 (Swift.Array&lt;FlipTree.Result&gt;) -&gt; () in FlipTree.AppListViewModel.loadMoreData(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "FlipTree"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/farhanakhan/Downloads/FlipTree/FlipTree/ViewModels/AppListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "161"
+                  endingLineNumber = "161"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "50015A44-38BA-452A-A5CC-81D5522E5AE9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlipTree/ViewModels/AppListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "152"
+            endingLineNumber = "152"
+            landmarkName = "loadMoreData(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
